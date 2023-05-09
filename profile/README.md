@@ -20,9 +20,9 @@
 - ✅️ https://discord.com/invite/worldcoin
 
 
-## CN Group:
+## China Group:
 
 - ✅️ https://discord.com/invite/MnDA9pfWAW
 
 
-<img width="222" alt="image" src="https://github.com/worldcoin-cn/.github/assets/3252130/e7bfef69-c2cb-4b67-9524-9f8996c37207">
+<img width="100" alt="image" src="https://github.com/worldcoin-cn/.github/assets/3252130/e7bfef69-c2cb-4b67-9524-9f8996c37207">
