@@ -19,6 +19,10 @@
 - ✅️ https://twitter.com/worldcoin
 - ✅️ https://discord.com/invite/worldcoin
 
+## Discussions
+
+- ✅️ https://github.com/orgs/worldcoin-cn/discussions
+
 
 ## China Group:
 
